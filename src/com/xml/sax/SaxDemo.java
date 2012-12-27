@@ -1,6 +1,5 @@
 package com.xml.sax;
 
-import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -24,12 +23,10 @@ import org.xml.sax.XMLReader;
 import org.xml.sax.helpers.AttributesImpl;
 import org.xml.sax.helpers.DefaultHandler;
 
-import com.sun.xml.internal.stream.events.AttributeImpl;
-
 public class SaxDemo {
 	public static void main(String[] args) {
-		//SaxDemo.parseXml();
-		SaxDemo.createXml();
+		//SaxDemo.createXml();
+		SaxDemo.parseXml();
 	}
 
 	public static void createXml() {
