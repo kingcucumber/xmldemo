@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="GB2312" standalone="no"?>
+<students>
+	<student>
+		<name>alice</name>
+		<gender>female</gender>
+		<email>123@gmail.com</email>
+	</student>
+</students>

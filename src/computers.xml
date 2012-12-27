@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="GB2312"?>
+<computers>
+	<dell name="dell" country="US">dell's computer is cheap</dell>
+	<lenovo name="levono" country="CN">lenovo's computer is good!
+	</lenovo>
+</computers>

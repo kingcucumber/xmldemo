@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<authors>
+	<author>
+		<name>turing</name>
+		<contribution>Turing Machine</contribution>
+	</author>
+	<author>
+		<name>Von Neumann</name>
+		<contribution>ENIAC</contribution>
+	</author>
+</authors>

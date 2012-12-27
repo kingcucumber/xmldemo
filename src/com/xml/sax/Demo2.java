@@ -1,4 +1,4 @@
-package com.xml.saxDemo;
+package com.xml.sax;
 
 import java.io.IOException;
 
@@ -36,7 +36,7 @@ class TagValueHandler extends DefaultHandler{
 		// TODO Auto-generated method stub
 		super.characters(ch, start, length);
 		
-		if("×÷Õß".equals(currentTag)){
+		if("ï¿½ï¿½ï¿½ï¿½".equals(currentTag)){
 			System.out.println(new String());
 		}
 	}
